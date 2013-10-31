@@ -1,9 +1,9 @@
 {
-  "name": "mixpanel",
+  "name": "mixpanel-rnr",
   "description": "A simple API for mixpanel",
   "keywords": ["mixpanel", "analytics", "api", "stats"],
   "version": "0.0.15",
-  "homepage": "https://github.com/carlsverre/mixpanel-node",
+  "homepage": "https://github.com/RobotandRockets/mixpanel-node",
   "author": "Carl Sverre",
   "main": "lib/mixpanel-node",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
       "type": "git",
-      "url": "http://github.com/carlsverre/mixpanel-node.git"
+      "url": "http://github.com/RobotandRockets/mixpanel-node.git"
   },
   "engines": {
     "node": ">=0.6.0"
